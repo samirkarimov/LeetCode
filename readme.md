@@ -16,3 +16,7 @@
    - [Video](https://www.youtube.com/watch?v=0bRjA5eGwtQ)
    - [Kodlar](https://github.com/samirkarimov/LeetCode/blob/master/defang_ip_adress.py)
    - Dil : Python
+5. [Destination City](https://leetcode.com/problems/destination-city/description/)
+   - [Video](https://www.youtube.com/watch?v=k1YBRNZTgfs)
+   - [Kodlar](https://github.com/samirkarimov/LeetCode/blob/master/destination_city.py)
+   - Dil : Python
