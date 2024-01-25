@@ -12,3 +12,7 @@
    - [Video](https://www.youtube.com/watch?v=FXAUbuwLV74)
    - [Kodlar](https://github.com/samirkarimov/LeetCode/blob/master/max-width-of-vertical-area.py)
    - Dil : Python
+4. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)
+   - [Video](https://www.youtube.com/watch?v=0bRjA5eGwtQ)
+   - [Kodlar](https://github.com/samirkarimov/LeetCode/blob/master/defang_ip_adress.py)
+   - Dil : Python
