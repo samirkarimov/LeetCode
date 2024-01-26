@@ -24,3 +24,7 @@
    - [Video](https://www.youtube.com/watch?v=_53lWvRPZEg)
    - [Kodlar](http://tinyurl.com/3sdy3tux)
    - Dil : Python
+7. [How Many Numbers Are Smaller Than the Current Number](http://tinyurl.com/yeynza7n)
+   - [Video](https://youtu.be/t5AnQDMRtRk)
+   - [Kodlar](http://tinyurl.com/3s47fbn6)
+   - Dil : Python
