@@ -20,3 +20,7 @@
    - [Video](https://www.youtube.com/watch?v=k1YBRNZTgfs)
    - [Kodlar](https://github.com/samirkarimov/LeetCode/blob/master/destination_city.py)
    - Dil : Python
+6. [Count Pairs Whose Sum is Less than Target](http://tinyurl.com/ayehbasp)
+   - [Video](https://www.youtube.com/watch?v=k1YBRNZTgfs)
+   - [Kodlar](http://tinyurl.com/3sdy3tux)
+   - Dil : Python
